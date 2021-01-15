@@ -105,9 +105,9 @@ img {
 }
 
 .mu-profile-img {
-	position:absolute;
+
 	margin-left: 200px;
-	/* margin-top:50px; */
+	margin-top:50px;
 }
 
 code {
